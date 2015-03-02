@@ -17,9 +17,6 @@ import org.junit.Test;
 
 public class DemoTest {
 
-
-
-
 	MapDriver<Object, Text, Text, Text> mapDriver1;
 	MapDriver<Text, Text, Text, Text> mapDriver2;
 	ReduceDriver<Text, Text, Text, Text> reduceDriver1;
